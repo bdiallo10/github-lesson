@@ -11,3 +11,9 @@ What command do you use to unstage a file? git checkout will unstage one file, g
 What command do you use to change your files back to how they were after a commit? git reset
 Why is it important to use -- when changing files back to a previous state? because you realize that you want to discard changes.
 Why might you want to reset your files back to a previous commit? You commited changes that you did not want to commit.
+
+COMMIT 3
+
+What command do you use to create a branch? git branch (name of your branc) will create a branch for you.
+What command do you use to use a different branch? git checkout and git branch both can be use to switch branches.
+Why would you want to use a branch other than the default master?  Having a different branch is just preference. You can always create new folders for organization purposes or different branch to keep your stuff organize. 
