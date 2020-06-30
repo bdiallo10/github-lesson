@@ -17,3 +17,10 @@ COMMIT 3
 What command do you use to create a branch? git branch (name of your branc) will create a branch for you.
 What command do you use to use a different branch? git checkout and git branch both can be use to switch branches.
 Why would you want to use a branch other than the default master?  Having a different branch is just preference. You can always create new folders for organization purposes or different branch to keep your stuff organize. 
+
+COMMIT 4
+
+Give an example for when you would use git merge and give an example for when it would be better to submit a pull request to have your branch merged
+When you fork a repository and made changes, merging the changes will allow you to integrate your changes to the file. Develop uses merge very often when fixing bugs. 
+
+What command do you use to send all of the work that you've done locally to your remote repository? git push is the command you use to send all the work that you've done locally to your remote repository.
