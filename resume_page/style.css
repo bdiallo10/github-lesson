@@ -1,3 +1,11 @@
+* {
+    box-sizing: border-box;
+  }
 h1 {
     color: aqua;
+    text-align: center;
+    font-style: italic;
+}
+h3 {
+    color: rgb(32, 158, 148);
 }
